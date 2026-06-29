@@ -5,7 +5,7 @@ It helps identify **top-performing regions**, understand **revenue trends over t
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 The dashboard provides an interactive view of:
 - **Revenue vs Quantity by Country** (comparison across countries)
 - **Revenue Trend Over Time** (month-wise performance)
@@ -15,7 +15,7 @@ This dashboard is useful for understanding business growth, demand patterns, and
 
 ---
 
-## ✅ Key Features
+##  Key Features
 - **Country-wise Revenue & Quantity Analysis**
   - Compare sales quantity and revenue for multiple countries
   - Identify top-performing regions
@@ -30,19 +30,16 @@ This dashboard is useful for understanding business growth, demand patterns, and
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - **Tableau Public / Tableau Desktop**
 - Interactive dashboards & visualizations
 - Maps, trend charts, and country-level comparison views
 
 ---
 
-## 📊 Dashboard Sheets / Visuals
+##  Dashboard Sheets / Visuals
 - Revenue vs Quantity by Country (Q2)
 - Geographic Demand Map (Q4)
 - Revenue Trend (Q1)
 - Revenue vs Quantity by Country (Q3)
 
----
-
-## 📂 Repository Structure
